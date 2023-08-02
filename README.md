@@ -3,4 +3,4 @@
   * Use ES6 classes to organize code 
   * JavaScript
   * CSS grid
-  * Flexbox
+    Flexbox
